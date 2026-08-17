@@ -1,0 +1,20 @@
+CORRE NADJA — arquivos do app
+
+Arquivos:
+- index.html
+- manifest.json
+- service-worker.js
+- icon-192.png
+- icon-512.png
+
+Para publicar no GitHub Pages:
+1. Crie um repositório no GitHub (ex.: corre-nadja).
+2. Envie TODOS os 5 arquivos desta pasta para a raiz do repositório.
+3. Vá em Settings > Pages.
+4. Em Build and deployment, escolha Deploy from a branch.
+5. Branch: main / (root) e clique em Save.
+6. Aguarde o link do GitHub Pages aparecer.
+7. Abra esse link no Chrome do Galaxy.
+8. Menu ⋮ > Instalar app (ou Adicionar à tela inicial).
+
+O progresso dos treinos é salvo no próprio celular usando localStorage.
